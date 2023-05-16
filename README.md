@@ -1,2 +1,2 @@
-# serverTest
-Server Test using NodeMon, Mongo DB, Express, etc
+# nodeMailer
+NodeMailer exercise done in class.
